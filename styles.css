@@ -1,0 +1,27 @@
+
+body{
+    text-align: center;
+    background-color: white;
+}
+main{
+   background-color: rgba(220, 220, 220, 0.5)
+}
+.img-div{
+    background-color: white;
+    margin: 0% 1% 0% 1%;
+    padding: 0 0 2% 0;
+ }
+
+#image{
+    max-width: 100%;
+    height: auto;
+}
+
+#image-caption{
+    padding: 1rem;
+}
+#tribute-info{
+    width: auto;
+    text-align: justify;
+    padding-right: 2em;
+}
